@@ -1,0 +1,14 @@
+1.Learn more about media constraints:
+https://www.rtcmulticonnection.org/docs/mediaConstraints/
+
+
+2. Github Repository:
+https://github.com/heyletscode/webrtc-videocall-javascript
+
+
+3. STUN & TURN servers list:
+https://gist.github.com/crapthings/18fe20fe7fbeb25007a88fd4ee3f06f8
+
+
+4. Trickle ICE website:
+https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
